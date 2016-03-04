@@ -23,3 +23,31 @@ More info on this can be found on the Ionic [Getting Started](http://ionicframew
 
 ## Issues
 Issues have been disabled on this repo, if you do find an issue or have a question consider posting it on the [Ionic Forum](http://forum.ionicframework.com/).  Or else if there is truly an error, follow our guidelines for [submitting an issue](http://ionicframework.com/submit-issue/) to the main Ionic repository.
+
+---
+
+# [Cordova](https://cordova.apache.org/)-[Ionic](http://ionicframework.com/) Projects
+
+##### Run bash command below from inside each project folder
+---
+To run in a browser
+``` bash
+$ ionic serve
+```
+To run in <PLATFORM> emulator (use ios or andriod for the <PLATFORM>)
+``` bash
+$ ionic platform add <PLATFORM>
+$ ionic build <PLATFORM>
+$ ionic emulate <PLATFORM>
+```
+or to run on <PLATFORM> device
+``` bash
+$ ionic run <PLATFORM>
+```
+---
+
+1. videoApp
+  * utilize [ionic creator](http://ionic.io/products/creator) to create a template
+  * list of lists
+  * list of videos
+  * load videos off of youtube
