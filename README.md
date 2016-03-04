@@ -26,9 +26,9 @@ Issues have been disabled on this repo, if you do find an issue or have a questi
 
 ---
 
-# [Cordova](https://cordova.apache.org/)-[Ionic](http://ionicframework.com/) Projects
+# [Cordova](https://cordova.apache.org/)-[Ionic](http://ionicframework.com/) Project
 
-##### Run bash command below from inside each project folder
+##### Run bash command below from inside project folder
 ---
 To run in a browser
 ``` bash
